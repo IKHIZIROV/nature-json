@@ -6,7 +6,7 @@
         "leeftijd": 132,
         "actief": true,
         "oprichtingsdatum": "1890-10-01",
-        "imageURL": "https://files.oaiusercontent.com/file-TcPcwuHLuLoobC5PT4qmEj?se=2025-02-03T14%3A28%3A55Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D343f7c90-5a3f-4330-a3db-27fb3951c00d.webp&sig=mo%2Bv2Gy4Jxb0YaDKqwtAGyWRhnNOVBdwzMTIbRZdk9s%3D",
+        "imageURL": "https://raw.githubusercontent.com/IKHIZIROV/nature-json/refs/heads/main/Yosemite%20National%20Park.png",
         "type": "Nationaal Park",
         "hobby's": ["wandelen", "klimmen", "fotograferen"],
         "locatie": {
@@ -42,7 +42,7 @@
         "leeftijd": 72,
         "actief": true,
         "oprichtingsdatum": "1951-03-01",
-        "imageURL": "https://files.oaiusercontent.com/file-Qy822688bNMwvaaAPNRfaz?se=2025-02-03T14%3A28%3A55Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Da6d62c2c-daa3-478d-a3e4-5b9cc52af734.webp&sig=Ias0OiWy50P91KlE6kA5/soi4JaA9jR99MYTR0kAi8s%3D",
+        "imageURL": "https://raw.githubusercontent.com/IKHIZIROV/nature-json/refs/heads/main/Serengeti%20National%20Park.png",
         "type": "Nationaal Park",
         "hobby's": ["safari", "fotograferen", "vogels kijken"],
         "locatie": {
@@ -60,7 +60,7 @@
         "leeftijd": 72,
         "actief": true,
         "oprichtingsdatum": "1952-03-01",
-        "imageURL": "https://files.oaiusercontent.com/file-URECSbegiHf3rg3njcZ8G5?se=2025-02-03T14%3A25%3A34Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0cd86c0f-487a-4e63-9b84-f3fd902fb251.webp&sig=nO3CrwhhQ%2B9MHLE8TVv5SqQCkOl/obPAILQjCCov2ds%3D",
+        "imageURL": "https://raw.githubusercontent.com/IKHIZIROV/nature-json/refs/heads/main/Fiordland%20National%20Park.png",
         "type": "Nationaal Park",
         "hobby's": ["wandelen", "varen", "wildlife spotten"],
         "locatie": {
@@ -78,7 +78,7 @@
         "leeftijd": 61,
         "actief": true,
         "oprichtingsdatum": "1959-05-13",
-        "imageURL": "https://files.oaiusercontent.com/file-RagwQ1qVdL6CsSxyuVncn6?se=2025-02-03T14%3A26%3A09Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Df6dbcd11-5662-48ae-9db4-4d1a513872c6.webp&sig=efJaN2dXxvFf3ys%2BA3Tj/orN%2B0zi6YYQzXw1HDP0EXE%3D",
+        "imageURL": "https://raw.githubusercontent.com/IKHIZIROV/nature-json/refs/heads/main/Torres%20del%20Paine%20National%20Park.png",
         "type": "Nationaal Park",
         "hobby's": ["wandelen", "paardrijden", "fotograferen"],
         "locatie": {
@@ -96,7 +96,7 @@
         "leeftijd": 73,
         "actief": true,
         "oprichtingsdatum": "1949-04-08",
-        "imageURL": "https://files.oaiusercontent.com/file-XydfTSznBaZB9i1ekNZk2r?se=2025-02-03T14%3A28%3A02Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D037e5698-4a73-479e-93b1-2c6f5d435858.webp&sig=dxFDRRhM8Y%2ByBaEPJpSwYEWcg3evT5bs4ubDyF0I/wI%3D",
+        "imageURL": "https://raw.githubusercontent.com/IKHIZIROV/nature-json/refs/heads/main/Plitvice%20Lakes%20National%20Park.png",
         "type": "Nationaal Park",
         "hobby's": ["wandelen", "fotograferen", "zwemmen"],
         "locatie": {
@@ -114,7 +114,7 @@
         "leeftijd": 123,
         "actief": true,
         "oprichtingsdatum": "1898-05-31",
-        "imageURL": "https://files.oaiusercontent.com/file-NekcRa74apfyamxqUJtSqM?se=2025-02-03T14%3A33%3A10Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0ae37bf4-e9fd-4a78-b873-bf5848760809.webp&sig=DZ%2BwrT%2BuOwlLNBCBuIPCe2bHM4WDZ43cJy8RcKayF8w%3D",
+        "imageURL": "https://raw.githubusercontent.com/IKHIZIROV/nature-json/refs/heads/main/Kruger%20National%20Park.png",
         "type": "Nationaal Park",
         "hobby's": ["safari", "wildlife spotten", "fotograferen"],
         "locatie": {
@@ -132,7 +132,7 @@
         "leeftijd": 45,
         "actief": true,
         "oprichtingsdatum": "1975-10-26",
-        "imageURL": "https://files.oaiusercontent.com/file-CT8S1XdLPH5v8RfuzLzXtM?se=2025-02-03T14%3A33%3A51Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D41afb3e3-9d0a-4d20-9f0b-098230d49659.webp&sig=QEk%2Bf%2BGLnzp/vjv3PyCMskL%2B5iXe6gWfZsn5WFXsrds%3D",
+        "imageURL": "https://raw.githubusercontent.com/IKHIZIROV/nature-json/refs/heads/main/Great%20Barrier%20Reef%20Marine%20Park.png",
         "type": "Marine Park",
         "hobby's": ["duiken", "snorkelen", "vissen"],
         "locatie": {
@@ -150,7 +150,7 @@
         "leeftijd": 150,
         "actief": true,
         "oprichtingsdatum": "1872-03-01",
-        "imageURL": "https://files.oaiusercontent.com/file-Aq7oBLeGfysBJ8QZz63U3f?se=2025-02-03T14%3A34%3A51Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D6e64d1d8-1f67-40c6-a39e-344c5633b145.webp&sig=bxNLrjR8kzy8oMdwMC%2Bp%2Br3Uf3J2iYuBXudWjtiR%2B2I%3D",
+        "imageURL": "https://raw.githubusercontent.com/IKHIZIROV/nature-json/refs/heads/main/Yellowstone%20National%20Park.png",
         "type": "Nationaal Park",
         "hobby's": ["wandelen", "wildlife spotten", "fotograferen"],
         "locatie": {
@@ -168,7 +168,7 @@
         "leeftijd": 47,
         "actief": true,
         "oprichtingsdatum": "1976-07-19",
-        "imageURL": "https://files.oaiusercontent.com/file-CU7Zszq8CG3JnEE3Ykg5CA?se=2025-02-03T14%3A35%3A32Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Db4d93d7a-8a84-4756-8f23-64fb20a2ce87.webp&sig=QwzF8B/3YxXLYptMt7aqCZrOceZWoOlyH0bjb0wNGXQ%3D",
+        "imageURL": "https://raw.githubusercontent.com/IKHIZIROV/nature-json/refs/heads/main/Sagarmatha%20National%20Park.png",
         "type": "Nationaal Park",
         "hobby's": ["bergbeklimmen", "wandelen", "fotograferen"],
         "locatie": {
