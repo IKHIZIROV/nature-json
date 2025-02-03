@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "naam": "Yosemite National Park",
+        "beschrijving": "Yosemite National Park is bekend om zijn adembenemende granieten rotsen, watervallen, heldere beekjes, reusachtige sequoia's en een grote diversiteit aan flora en fauna.",
+        "leeftijd": 132,
+        "actief": true,
+        "oprichtingsdatum": "1890-10-01",
+        "imageURL": "https://example.com/images/yosemite.jpg",
+        "type": "Nationaal Park",
+        "hobby's": ["wandelen", "klimmen", "fotograferen"],
+        "locatie": {
+            "id": 101,
+            "land": "Verenigde Staten",
+            "staat": "Californië",
+            "breedtegraad": 37.8651,
+            "lengtegraad": -119.5383
+        }
+    },
+    {
+        "id": 2,
+        "naam": "Banff National Park",
+        "beschrijving": "Banff National Park is het oudste nationale park van Canada, gelegen in de Rocky Mountains en bekend om zijn turquoise meren, bergen en uitgestrekte wildernis.",
+        "leeftijd": 137,
+        "actief": true,
+        "oprichtingsdatum": "1885-11-25",
+        "imageURL": "https://example.com/images/banff.jpg",
+        "type": "Nationaal Park",
+        "hobby's": ["skiën", "wildlife spotten", "kajakken"],
+        "locatie": {
+            "id": 102,
+            "land": "Canada",
+            "provincie": "Alberta",
+            "breedtegraad": 51.4968,
+            "lengtegraad": -115.9281
+        }
+    },
+    {
+        "id": 3,
+        "naam": "Serengeti National Park",
+        "beschrijving": "De Serengeti is een uitgestrekt ecosysteem in Oost-Afrika, bekend om de jaarlijkse migratie van miljoenen wildebeesten en honderden andere diersoorten.",
+        "leeftijd": 72,
+        "actief": true,
+        "oprichtingsdatum": "1951-03-01",
+        "imageURL": "https://example.com/images/serengeti.jpg",
+        "type": "Nationaal Park",
+        "hobby's": ["safari", "fotograferen", "vogels kijken"],
+        "locatie": {
+            "id": 103,
+            "land": "Tanzania",
+            "regio": "Serengeti",
+            "breedtegraad": -2.1540,
+            "lengtegraad": 34.6857
+        }
+    },
+    {
+        "id": 4,
+        "naam": "Fiordland National Park",
+        "beschrijving": "Fiordland National Park in Nieuw-Zeeland staat bekend om zijn dramatische fjorden, steile bergen en weelderige regenwouden.",
+        "leeftijd": 72,
+        "actief": true,
+        "oprichtingsdatum": "1952-03-01",
+        "imageURL": "https://example.com/images/fiordland.jpg",
+        "type": "Nationaal Park",
+        "hobby's": ["wandelen", "varen", "wildlife spotten"],
+        "locatie": {
+            "id": 104,
+            "land": "Nieuw-Zeeland",
+            "regio": "Southland",
+            "breedtegraad": -45.4136,
+            "lengtegraad": 167.7188
+        }
+    },
+    {
+        "id": 5,
+        "naam": "Torres del Paine National Park",
+        "beschrijving": "Torres del Paine National Park in Chili is beroemd om zijn torenhoge bergen, heldere blauwe meren en gletsjers.",
+        "leeftijd": 61,
+        "actief": true,
+        "oprichtingsdatum": "1959-05-13",
+        "imageURL": "https://example.com/images/torres-del-paine.jpg",
+        "type": "Nationaal Park",
+        "hobby's": ["wandelen", "paardrijden", "fotograferen"],
+        "locatie": {
+            "id": 105,
+            "land": "Chili",
+            "regio": "Patagonië",
+            "breedtegraad": -51.2596,
+            "lengtegraad": -72.3456
+        }
+    },
+    {
+        "id": 6,
+        "naam": "Plitvice Lakes National Park",
+        "beschrijving": "Plitvice Lakes National Park in Kroatië staat bekend om zijn keten van 16 terrassenvormige meren, verbonden door watervallen en omgeven door weelderige bossen.",
+        "leeftijd": 73,
+        "actief": true,
+        "oprichtingsdatum": "1949-04-08",
+        "imageURL": "https://example.com/images/plitvice.jpg",
+        "type": "Nationaal Park",
+        "hobby's": ["wandelen", "fotograferen", "zwemmen"],
+        "locatie": {
+            "id": 106,
+            "land": "Kroatië",
+            "regio": "Lika-Senj",
+            "breedtegraad": 44.8654,
+            "lengtegraad": 15.5820
+        }
+    },
+    {
+        "id": 7,
+        "naam": "Kruger National Park",
+        "beschrijving": "Kruger National Park in Zuid-Afrika is een van de grootste wildreservaten in Afrika, met een grote verscheidenheid aan wilde dieren, waaronder de Big Five.",
+        "leeftijd": 123,
+        "actief": true,
+        "oprichtingsdatum": "1898-05-31",
+        "imageURL": "https://example.com/images/kruger.jpg",
+        "type": "Nationaal Park",
+        "hobby's": ["safari", "wildlife spotten", "fotograferen"],
+        "locatie": {
+            "id": 107,
+            "land": "Zuid-Afrika",
+            "provincie": "Limpopo",
+            "breedtegraad": -23.9884,
+            "lengtegraad": 31.5547
+        }
+    },
+    {
+        "id": 8,
+        "naam": "Great Barrier Reef Marine Park",
+        "beschrijving": "Het Great Barrier Reef is 's werelds grootste koraalrifsysteem, gelegen in de Koraalzee voor de kust van Queensland, Australië.",
+        "leeftijd": 45,
+        "actief": true,
+        "oprichtingsdatum": "1975-10-26",
+        "imageURL": "https://example.com/images/great-barrier-reef.jpg",
+        "type": "Marine Park",
+        "hobby's": ["duiken", "snorkelen", "vissen"],
+        "locatie": {
+            "id": 108,
+            "land": "Australië",
+            "staat": "Queensland",
+            "breedtegraad": -18.2871,
+            "lengtegraad": 147.6992
+        }
+    },
+    {
+        "id": 9,
+        "naam": "Yellowstone National Park",
+        "beschrijving": "Yellowstone National Park, voornamelijk gelegen in Wyoming, is het eerste nationale park ter wereld en staat bekend om zijn geothermische kenmerken en wilde dieren.",
+        "leeftijd": 150,
+        "actief": true,
+        "oprichtingsdatum": "1872-03-01",
+        "imageURL": "https://example.com/images/yellowstone.jpg",
+        "type": "Nationaal Park",
+        "hobby's": ["wandelen", "wildlife spotten", "fotograferen"],
+        "locatie": {
+            "id": 109,
+            "land": "Verenigde Staten",
+            "staat": "Wyoming",
+            "breedtegraad": 44.4280,
+            "lengtegraad": -110.5885
+        }
+    },
+    {
+        "id": 10,
+        "naam": "Sagarmatha National Park",
+        "beschrijving": "Sagarmatha National Park in Nepal is de thuisbasis van de hoogste berg ter wereld, de Mount Everest, en biedt een adembenemend landschap van bergen en gletsjers.",
+        "leeftijd": 47,
+        "actief": true,
+        "oprichtingsdatum": "1976-07-19",
+        "imageURL": "https://example.com/images/sagarmatha.jpg",
+        "type": "Nationaal Park",
+        "hobby's": ["bergbeklimmen", "wandelen", "fotograferen"],
+        "locatie": {
+            "id": 110,
+            "land": "Nepal",
+            "regio": "Himalaya",
+            "breedtegraad": 27.9881,
+            "lengtegraad": 86.9250
+        }
+    }
+]
