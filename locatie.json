@@ -1,0 +1,73 @@
+[
+    {
+            "id": 101,
+            "land": "Verenigde Staten",
+            "staat": "Californië",
+            "breedtegraad": 37.8651,
+            "lengtegraad": -119.5383
+    },
+    {
+            "id": 102,
+            "land": "Canada",
+            "provincie": "Alberta",
+            "breedtegraad": 51.4968,
+            "lengtegraad": -115.9281
+    },
+    {
+            "id": 103,
+            "land": "Tanzania",
+            "regio": "Serengeti",
+            "breedtegraad": -2.1540,
+            "lengtegraad": 34.6857
+    },
+    {
+            "id": 104,
+            "land": "Nieuw-Zeeland",
+            "regio": "Southland",
+            "breedtegraad": -45.4136,
+            "lengtegraad": 167.7188
+    },
+    {
+            "id": 105,
+            "land": "Chili",
+            "regio": "Patagonië",
+            "breedtegraad": -51.2596,
+            "lengtegraad": -72.3456
+    },
+    {
+            "id": 106,
+            "land": "Kroatië",
+            "regio": "Lika-Senj",
+            "breedtegraad": 44.8654,
+            "lengtegraad": 15.5820
+    },
+    {
+            "id": 107,
+            "land": "Zuid-Afrika",
+            "provincie": "Limpopo",
+            "breedtegraad": -23.9884,
+            "lengtegraad": 31.5547
+    },
+    {
+            "id": 108,
+            "land": "Australië",
+            "staat": "Queensland",
+            "breedtegraad": -18.2871,
+            "lengtegraad": 147.6992
+    },
+    {
+            "id": 109,
+            "land": "Verenigde Staten",
+            "staat": "Wyoming",
+            "breedtegraad": 44.4280,
+            "lengtegraad": -110.5885
+    },
+    {
+            "id": 110,
+            "land": "Nepal",
+            "regio": "Himalaya",
+            "breedtegraad": 27.9881,
+            "lengtegraad": 86.9250
+        }
+    }
+]
